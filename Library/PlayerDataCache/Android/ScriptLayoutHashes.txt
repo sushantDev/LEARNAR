@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/college/RM/LearnAR/LEARNAR/Builds/LearnAR-v0.1.apk
+D:/college/RM/LearnAR/LEARNAR/Builds/LearnAR-v0.2.apk
 SceneListBegin?
 Assets/Scenes/LearnARScene.unity
 SceneListEnd?
