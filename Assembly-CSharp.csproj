@@ -54,12 +54,13 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Models\Planet Earth Free\SpinFree.cs" />
+     <Compile Include="Assets\Models\Sun\Scripts\CameraFacingBillboard.cs" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
      <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
+     <None Include="Assets\StreamingAssets\Vuforia\LEARNARDATABASE.xml" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
      <None Include="Assets\Vuforia\Shaders\OutlineOpaque.shader" />
-     <None Include="Assets\StreamingAssets\Vuforia\LEARNARDATABASE.xml" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
      <None Include="Assets\Vuforia\Databases\Emulator\VuforiaEmulator.xml" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
