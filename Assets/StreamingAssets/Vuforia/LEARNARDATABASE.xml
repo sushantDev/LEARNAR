@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="VideoMarker" size="5.000000 7.154696" />
     <ImageTarget name="AppleMarker" size="5.000000 6.921098" />
     <ImageTarget name="SunMarker" size="5.000000 7.081818" />
     <ImageTarget name="GarlicMarker" size="5.000000 7.025090" />
